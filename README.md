@@ -1,3 +1,3 @@
 # lamp-algorithm
-A simple algorithm based in a image
+A simple algorithm based in this image:
 <img src="LampFlowchart-es.svg.png">
